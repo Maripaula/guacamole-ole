@@ -6,7 +6,7 @@ list of IPs. Practical uses for security and networking.
 ## Installation 
 
 1. Verify Python 2.x is on your computer
-2. Pull the file
+2. Pull dns_lookup.py
 
 ## Usage
 
@@ -17,13 +17,7 @@ list of IPs. Practical uses for security and networking.
    the hostname you are searching for.
 4. Run the script by typing python dns_lookup.py
 
-sample input file should look as follows:
-
-127.0.0.1
-216.58.209.132
-99.84.255.171
-23.7.187.38
-255.255.255.0
+sample input file should look like the IP.txt file included
 
 ## Contributing
 
